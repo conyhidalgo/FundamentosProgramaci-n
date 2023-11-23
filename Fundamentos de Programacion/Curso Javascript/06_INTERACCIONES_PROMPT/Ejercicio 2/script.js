@@ -1,3 +1,4 @@
+//Verificar la Temperatura
 let temp = 40
 
 if (temp < 0){
